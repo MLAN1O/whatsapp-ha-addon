@@ -1,4 +1,4 @@
-# Gajosu HA add-on repository
+# MLAN1O HA add-on repository
 
 <!-- This repository can be used as a "blueprint" for add-on development to help you get started. -->
 
@@ -6,11 +6,11 @@
 
 Use the following button to add the repository to your Home Assistant instance:
 
-[![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https://github.com/gajosu/whatsapp-ha-addon)
+[![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https://github.com/MLAN1O/whatsapp-ha-addon)
 
 Or add the repository URL under **Supervisor (Hass.io) → Add-on Store** in your Home Assistant front-end:
 
-    https://github.com/gajosu/whatsapp-ha-addon
+    https://github.com/MLAN1O/whatsapp-ha-addon
 
 ## Add-ons
 

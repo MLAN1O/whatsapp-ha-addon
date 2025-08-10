@@ -3,7 +3,7 @@ name: Whatsapp
 version: "2.4.1"
 slug: whatsapp
 description: Whatsapp integration for Home Assistant.
-url: "https://github.com/gajosu/whatsapp-ha-addon/tree/master/whatsapp"
+url: "https://github.com/MLAN1O/whatsapp-ha-addon/tree/master/whatsapp"
 arch:
   - armhf
   - armv7

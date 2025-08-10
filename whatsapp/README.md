@@ -1,5 +1,7 @@
 # Whatsapp web HA add-on
 
+This add-on is a fork maintained by Max L. Mendes (MLAN1O). The original project was created by Gabriel González (gajosu).
+
 _A WhatsApp API client that connects through the WhatsApp Web browser app with Home Assistant._
 
 ![Supports aarch64 Architecture][aarch64-shield]

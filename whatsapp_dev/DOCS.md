@@ -1,5 +1,7 @@
 # Whatsapp web HA add-on
 
+This add-on is a fork maintained by Max L. Mendes (MLAN1O). The original project was created by Gabriel González (gajosu).
+
 ## How to use
 1. Add repository to Home Assistant ([Instructions here](../../../#readme))
 2. Install the add-on
