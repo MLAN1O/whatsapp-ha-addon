@@ -1,5 +1,6 @@
-# MLAN1O HA add-on repository
+# Whatsapp Web HA add-on repository
 
+This add-on is a fork maintained by Max L. Mendes (MLAN1O). The original project was created by [Gabriel González (gajosu).](https://github.com/gajosu/whatsapp-ha-addon) 
 <!-- This repository can be used as a "blueprint" for add-on development to help you get started. -->
 
 ## Installation
